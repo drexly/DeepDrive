@@ -8,7 +8,7 @@ Devised a hardware system(NVIDIA Jetson TX2 + Raspberry Pi 3 Model B + Bluetooth
 
 Applied Embedded Deep Learning (based on Fully-Convolutional Network Alexnet-Cityscapes-HD model) for car and traffic Image Classification, training from NVIDIA DIGITS and Caffe2. Real-time image snapshots validation process was held on NVIDIA Jetson TX2, which has an ability of performing embedded GPU CUDA-processing power on Neural Networks with low power(voltage) source(12v usage as like standard cars).
 
-Implemented CUDA programming and OpenCV image processing for ROI segmentation, with sub-processing sound notification process
+Implemented C++ CUDA programming and Python OpenCV image processing for ROI segmentation, with sub-processing sound notification process
 
 VIP briefing in Engineering Education Festa 2017 and Press @ http://www.honam.co.kr/read.php3?aid=1510239600539545228
 
