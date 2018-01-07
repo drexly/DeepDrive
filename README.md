@@ -2,7 +2,7 @@
 
 R&D for Autonomous Driving with Realtime Embedded Deep Learning
 
-‘Real-time Embedded Deep Learning for Autonomous Lane Change Systems of Autonomous Driving’ project sponsored and selected by ‘LSautomotive’ (http://www.e2festa.kr/exhibition02.asp)
+‘Real-time Embedded Deep Learning for Autonomous Lane Change System of Autonomous Driving’ project sponsored and selected by ‘LSautomotive’ (http://www.e2festa.kr/exhibition02.asp)
 
 Devised a hardware system(NVIDIA Jetson TX2 + Raspberry Pi 3 Model B + Bluetooth Speaker) with developing softwares which can notify driver about possibilities of changing(transferring) lane from current driving state, only with side-mirror Camera’s real-time streaming video so that can replace the future cars' side-mirror by installing small camera on each side.
 
